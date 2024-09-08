@@ -1,0 +1,1 @@
+cd ChaseLogic && mvn clean install && cd .. && cd Game && mvn clean install 
